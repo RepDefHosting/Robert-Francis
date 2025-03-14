@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Robert Francis
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -12,12 +12,15 @@ learnMoreButton:
 subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
-  src: /img/businesshero2.png
-  alt: Hero Image for home page
+  src: /img/lawyerhero1.png
+  alt: Robert Francis
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: Two years after graduating from Cincinnati’s Western Hills High
+  School, Robert Francis enlisted in the U.S. Marine Corps. He was a Marine from
+  1960 to 1967, earning the highest grade ever in an aerial reconnaissance
+  course. Robert Francis left the U.S. Marine Corps with the rank of First
+  Lieutenant.
 published: true
 profileButton:
   link: /profile
@@ -32,4 +35,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+Two years after graduating from Cincinnati’s Western Hills High School, Robert Francis enlisted in the U.S. Marine Corps. He was a Marine from 1960 to 1967, earning the highest grade ever in an aerial reconnaissance course. Robert Francis left the U.S. Marine Corps with the rank of First Lieutenant.
